@@ -15,3 +15,5 @@ In this repository I will be writing my learnings through this course Everyday.s
 - building single page applications.
 - React Alternative.
 - About this course and alternative.
+- The Two Ways(paths) of taking ths course.
+- Taking most out of the course content.
