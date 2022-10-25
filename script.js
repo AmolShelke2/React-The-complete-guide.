@@ -45,7 +45,7 @@ You got two different types of exports:default (unnamed)and named exports:
 */
 
 // Default Import
-
+/*
 const person = {
   name: "Amol",
 };
@@ -57,3 +57,51 @@ export default person;
 export const clean = () => {};
 
 export const baseData = 10;
+*/
+
+// Classes.
+/*
+class Human {
+  constructor() {
+    this.gender = "male";
+  }
+
+  printGender() {
+    console.log(this.gender);
+  }
+}
+
+// Inheritence. // extneds
+class Person extends Human {
+  constructor() {
+    super();
+    this.name = "Amol shelke";
+  }
+
+  printMyName() {
+    console.log(this.name);
+  }
+}
+
+const person = new Person();
+person.printMyName();
+person.printGender();
+
+// Es7 Next generation methods and properties.
+class Human2 {
+  gender = "female";
+
+  printGender = () => {
+    console.log(gender);
+  };
+}
+
+class Person2 extends Human2 {
+  name = "Amol Shelke";
+  printMyName = () => {
+    console.log(name);
+  };
+}
+
+Person2.printMyName();
+*/
