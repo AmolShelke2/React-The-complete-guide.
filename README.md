@@ -8,7 +8,7 @@ In this repository I will be writing my learnings through this course Everyday.s
 
 <hr>
 
-## Getting Started.
+## 1 Getting Started.
 
 - Today I Learnt about React JS. what is React-JS?
 - why use React-JS?
@@ -17,3 +17,7 @@ In this repository I will be writing my learnings through this course Everyday.s
 - About this course and alternative.
 - The Two Ways(paths) of taking ths course.
 - Taking most out of the course content.
+
+## 2 JavaScript Refresher.
+
+- Module Introduction
