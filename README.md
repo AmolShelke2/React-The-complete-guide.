@@ -22,3 +22,4 @@ In this repository I will be writing my learnings through this course Everyday.s
 
 - Module Introduction
 - Understanding Let and Const.
+- Arrow functions
