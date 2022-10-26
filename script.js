@@ -141,3 +141,18 @@ console.log(filter(1, 2, 4, 5, 1));
 // Dustructuring
 
 // Easily extract array elements or object properties and store them in variables.
+
+// Array Desctructuring
+const numbers = [1, 2, 3, 4];
+[num1, num2] = numbers; // it will log 1 and 2
+console.log(num1, num2);
+
+// if we want to get 3rd item without getting second we can also get that. like this.
+[num1, , num3] = numbers; // it will skip the second number becasue we added the comma as a second variable
+console.log(num1, num3);
+
+// Object Desctructuring
+
+const person = { name: "Max", age: 28 };
+const { name } = person;
+console.log(name);
