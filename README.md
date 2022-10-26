@@ -29,3 +29,4 @@ In this repository I will be writing my learnings through this course Everyday.s
 - Spread and rest operator.
 - Destructuring
 - Reference and primitive types refresher.
+- Array Functions.
