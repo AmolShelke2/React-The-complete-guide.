@@ -105,3 +105,12 @@ class Person2 extends Human2 {
 
 Person2.printMyName();
 */
+
+// Spread and Rest Operators.
+
+// Spread Operator.
+
+const oldArray = ["a", "b", "c", "d"];
+const newArray = [...oldArray, "e", "f", "g"];
+console.log(newArray.length);
+console.log(newArray);
