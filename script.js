@@ -108,6 +108,7 @@ Person2.printMyName();
 
 // Spread and Rest Operators.
 
+/*
 // Spread Operator.
 
 // Array
@@ -135,3 +136,8 @@ const filter = (...args) => {
 };
 
 console.log(filter(1, 2, 4, 5, 1));
+*/
+
+// Dustructuring
+
+// Easily extract array elements or object properties and store them in variables.

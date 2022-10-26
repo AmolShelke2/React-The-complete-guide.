@@ -24,3 +24,6 @@ In this repository I will be writing my learnings through this course Everyday.s
 - Understanding Let and Const.
 - Arrow functions
 - Exports and Imports.
+- Classes.
+- Next generation properties and methods.
+- Spread and rest operator.
