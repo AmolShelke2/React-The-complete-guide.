@@ -143,16 +143,36 @@ console.log(filter(1, 2, 4, 5, 1));
 // Easily extract array elements or object properties and store them in variables.
 
 // Array Desctructuring
-const numbers = [1, 2, 3, 4];
-[num1, num2] = numbers; // it will log 1 and 2
-console.log(num1, num2);
+// const numbers = [1, 2, 3, 4];
+// [num1, num2] = numbers; // it will log 1 and 2
+// console.log(num1, num2);
 
 // if we want to get 3rd item without getting second we can also get that. like this.
-[num1, , num3] = numbers; // it will skip the second number becasue we added the comma as a second variable
-console.log(num1, num3);
+// [num1, , num3] = numbers; // it will skip the second number becasue we added the comma as a second variable
+// console.log(num1, num3);
 
 // Object Desctructuring
 
-const person = { name: "Max", age: 28 };
-const { name } = person;
-console.log(name);
+// const person = { name: "Max", age: 28 };
+// const { name } = person;
+// console.log(name);
+
+// Destructuring is very usefull while working with functions arguments.
+
+// consider this example
+
+// This Way of writing this code is correct nothing is wrong, but we can condense this code with destructuring
+
+const printMyName = (myObj) => {
+  console.log(myObj.name);
+};
+
+console.log(printMyName({ name: "Amol", age: 18 }));
+
+// Destructuring arguments.
+
+const printName = ({ name }) => {
+  console.log(name);
+};
+
+console.log(printName({ name: "Amol", age: 18 }));

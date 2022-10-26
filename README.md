@@ -27,3 +27,5 @@ In this repository I will be writing my learnings through this course Everyday.s
 - Classes.
 - Next generation properties and methods.
 - Spread and rest operator.
+- Destructuring
+- Reference and primitive types refresher.
