@@ -110,7 +110,28 @@ Person2.printMyName();
 
 // Spread Operator.
 
+// Array
 const oldArray = ["a", "b", "c", "d"];
 const newArray = [...oldArray, "e", "f", "g"];
 console.log(newArray.length);
 console.log(newArray);
+
+// object
+const person = {
+  name: "Person",
+};
+
+const newPerson = {
+  ...person,
+  age: 28,
+};
+
+console.log(newPerson);
+
+// Rest operator
+
+const filter = (...args) => {
+  return args.filter((el) => el === 1);
+};
+
+console.log(filter(1, 2, 4, 5, 1));
