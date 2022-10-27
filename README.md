@@ -39,3 +39,6 @@ In this repository I will be writing my learnings through this course Everyday.s
 - What Are components and why is React All about them.
 - React Code is written in declarative way
 - Creating a new React Project.
+- Analyzing a standard react project.
+- Introducing JSX
+- How React works
