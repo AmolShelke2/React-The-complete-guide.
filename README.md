@@ -35,10 +35,12 @@ In this repository I will be writing my learnings through this course Everyday.s
 
 ## 3 React Basics and working with components.
 
-- Module Introduction
+- Module Introduction.
 - What Are components and why is React All about them.
-- React Code is written in declarative way
+- React Code is written in declarative way.
 - Creating a new React Project.
 - Analyzing a standard react project.
-- Introducing JSX
-- How React works
+- Introducing JSX.
+- How React works.
+- Building First componet.
+- Writing complex Jsx.
