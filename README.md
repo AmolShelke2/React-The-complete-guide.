@@ -34,3 +34,8 @@ In this repository I will be writing my learnings through this course Everyday.s
 <hr >
 
 ## 3 React Basics and working with components.
+
+- Module Introduction
+- What Are components and why is React All about them.
+- React Code is written in declarative way
+- Creating a new React Project.
