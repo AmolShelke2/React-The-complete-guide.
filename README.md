@@ -30,3 +30,7 @@ In this repository I will be writing my learnings through this course Everyday.s
 - Destructuring
 - Reference and primitive types refresher.
 - Array Functions.
+
+<hr >
+
+## 3 React Basics and working with components.
