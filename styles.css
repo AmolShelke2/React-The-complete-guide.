@@ -1,0 +1,112 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #3f3f3f;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #fff;
+  margin: 0;
+  font-weight: normal;
+  text-transform: capitalize;
+}
+
+.expenses {
+  padding: 1rem;
+  background-color: rgb(31, 31, 31);
+  margin: 2rem auto;
+  width: 50rem;
+  max-width: 95%;
+  border-radius: 12px;
+}
+
+.expense-item {
+  display: flex;
+  align-items: center;
+  padding: 0.4rem;
+  margin: 1rem auto;
+  background-color: #4b4b4b;
+  border-radius: 15px;
+  box-shadow: 0px 2px #3f3f3f;
+  gap: 1rem;
+}
+
+.date-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #fff;
+  padding: 0.5rem 1rem;
+  border-radius: 12px;
+  background-color: #2a2a2a;
+  color: #fff;
+}
+
+.date-container .month {
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.date-container .day {
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
+.item-description {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #fff;
+}
+
+.item-description h1 {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.item-description p {
+  background-color: #40005d;
+  padding: 1rem 2rem;
+  border-radius: 12px;
+  font-weight: bold;
+  font-size: 1.2rem;
+  border: 2px solid #fff;
+}
+
+@media (max-width: 1200px) {
+  .expense-item {
+    width: 100%;
+  }
+}
+
+@media (max-width: 500px) {
+  .expense-item {
+    width: 100%;
+  }
+
+  .item-description {
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-flow: column-reverse;
+    text-align: center;
+  }
+
+  .item-description h1 {
+    font-size: 1rem;
+  }
+
+  .item-description p {
+    font-size: 0.9rem;
+  }
+}
