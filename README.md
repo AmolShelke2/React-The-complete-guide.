@@ -44,3 +44,15 @@ In this repository I will be writing my learnings through this course Everyday.s
 - How React works.
 - Building First componet.
 - Writing complex Jsx.
+- Adding Basic css styling
+- Outputting Dynamic data & working with expression in jsx
+- Passing data via props
+- Adding normal javascript logic to components
+- Splitting Component into multiple component
+- The Concept of Composition and children props
+- First Summary
+- A Closer look at JSX
+- Organizing Components files
+- A alternative function syntax Arrow function
+
+<hr>
