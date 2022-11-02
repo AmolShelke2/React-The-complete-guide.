@@ -55,4 +55,7 @@ In this repository I will be writing my learnings through this course Everyday.s
 - Organizing Components files
 - A alternative function syntax Arrow function
 
+### Preview of the project that I'm creating in this section;
+![192 168 0 107_5500_index html (7)](https://user-images.githubusercontent.com/95171638/199462992-85ba9d42-ffaa-48a3-a0bf-1f051caef037.png)
+
 <hr>
