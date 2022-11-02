@@ -59,3 +59,12 @@ In this repository I will be writing my learnings through this course Everyday.s
 ![192 168 0 107_5500_index html (7)](https://user-images.githubusercontent.com/95171638/199462992-85ba9d42-ffaa-48a3-a0bf-1f051caef037.png)
 
 <hr>
+
+## 04 React state and working with events
+ ### Module Content:
+ ![Media Player 02-11-2022 10 53 13 PM](https://user-images.githubusercontent.com/95171638/199560180-13a9e9bb-b4ef-4ccc-870a-972c04af3d45.png)
+  <hr>
+
+- Module Intro
+
+
