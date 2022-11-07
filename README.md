@@ -61,10 +61,11 @@ In this repository I will be writing my learnings through this course Everyday.s
 
 ## 4 React State and working with event Handlers
 
- ### Module Content:
- ![Media Player 02-11-2022 10 53 13 PM](https://user-images.githubusercontent.com/95171638/199560180-13a9e9bb-b4ef-4ccc-870a-972c04af3d45.png)
-  <hr>
+### Module Content:
 
+![Media Player 02-11-2022 10 53 13 PM](https://user-images.githubusercontent.com/95171638/199560180-13a9e9bb-b4ef-4ccc-870a-972c04af3d45.png)
+
+  <hr>
 
 - Module Introduction
 - Listening to events and working with Event handlers
@@ -83,6 +84,4 @@ In this repository I will be writing my learnings through this course Everyday.s
 
 <hr>
 
-
-
-
+## Section 5
