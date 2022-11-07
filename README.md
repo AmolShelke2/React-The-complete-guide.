@@ -77,3 +77,12 @@ In this repository I will be writing my learnings through this course Everyday.s
 - Uncontrol vs controlled component Stateless vs Stateful Components
 
 <hr>
+
+## 04 React state and working with events
+ ### Module Content:
+ ![Media Player 02-11-2022 10 53 13 PM](https://user-images.githubusercontent.com/95171638/199560180-13a9e9bb-b4ef-4ccc-870a-972c04af3d45.png)
+  <hr>
+
+- Module Intro
+
+
