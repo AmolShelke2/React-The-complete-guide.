@@ -95,3 +95,5 @@ In this repository I will be writing my learnings through this course Everyday.s
 - Demo App Adding a chart.
 - Adding Dynamic styles.
 - Wrap up and next steps.
+
+## 6 Styling React Component.
