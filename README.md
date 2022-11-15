@@ -95,6 +95,7 @@ In this repository I will be writing my learnings through this course Everyday.s
 - Demo App Adding a chart.
 - Adding Dynamic styles.
 - Wrap up and next steps.
+<hr>
 
 ## 6 Styling React Component.
 - Module introduction.
@@ -104,5 +105,9 @@ In this repository I will be writing my learnings through this course Everyday.s
 - Styled component and dynamic component.
 - Using CSS modules.
 - Dynamic CSS styles with CSS modules.
+<hr>
 
+## 7 Debugging our React App.
+![Media Player 15-11-2022 10 52 22 PM](https://user-images.githubusercontent.com/95171638/201986941-4c55fdc2-a1ce-4c86-a9cc-cab89e287a3d.png)
+- Module Introduction
 
