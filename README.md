@@ -97,3 +97,12 @@ In this repository I will be writing my learnings through this course Everyday.s
 - Wrap up and next steps.
 
 ## 6 Styling React Component.
+- Module introduction.
+- Setting dynamic inline styles.
+- setting CSS classes dynamically.
+- Introducing styled component.
+- Styled component and dynamic component.
+- Using CSS modules.
+- Dynamic CSS styles with CSS modules.
+
+
