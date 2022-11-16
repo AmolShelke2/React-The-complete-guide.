@@ -118,3 +118,5 @@ In this repository I will be writing my learnings through this course Everyday.s
 - working with Breakpoints.
 - Using the React devtools.
 <!-- completed Debugging our React App section -->
+
+## 8 Time to practice. A complete practice project.
