@@ -120,3 +120,8 @@ In this repository I will be writing my learnings through this course Everyday.s
 <!-- completed Debugging our React App section -->
 
 ## 8 Time to practice. A complete practice project.
+
+Not following the videos just trying to create it on my own.
+
+Create a add user project which will add a user with name and age. use useState hook,
+event handlers, props, state etc.
