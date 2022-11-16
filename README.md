@@ -98,6 +98,7 @@ In this repository I will be writing my learnings through this course Everyday.s
 <hr>
 
 ## 6 Styling React Component.
+
 - Module introduction.
 - Setting dynamic inline styles.
 - setting CSS classes dynamically.
@@ -108,6 +109,11 @@ In this repository I will be writing my learnings through this course Everyday.s
 <hr>
 
 ## 7 Debugging our React App.
-![Media Player 15-11-2022 10 52 22 PM](https://user-images.githubusercontent.com/95171638/201986941-4c55fdc2-a1ce-4c86-a9cc-cab89e287a3d.png)
-- Module Introduction
 
+![Media Player 15-11-2022 10 52 22 PM](https://user-images.githubusercontent.com/95171638/201986941-4c55fdc2-a1ce-4c86-a9cc-cab89e287a3d.png)
+
+- Module Introduction.
+- Understanding React Error messages.
+- Analyzing Code flow & warnings.
+- working with Breakpoints.
+- Using the React devtools.
