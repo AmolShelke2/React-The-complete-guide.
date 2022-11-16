@@ -117,3 +117,4 @@ In this repository I will be writing my learnings through this course Everyday.s
 - Analyzing Code flow & warnings.
 - working with Breakpoints.
 - Using the React devtools.
+<!-- completed Debugging our React App section -->
