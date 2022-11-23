@@ -135,3 +135,4 @@ event handlers, props, state etc.
 - Module Introduction.
 - Jsx Limitations
 - Creating a Wrapper Component
+- React Fragments
