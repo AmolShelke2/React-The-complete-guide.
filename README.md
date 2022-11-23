@@ -132,5 +132,5 @@ event handlers, props, state etc.
 
 ![Media Player 23-11-2022 9 50 54 PM](https://user-images.githubusercontent.com/95171638/203597959-9ee4c3fb-0dc1-4806-9f0a-a60dac02b053.png)
 
-
 - Module Introduction.
+- Jsx Limitations
