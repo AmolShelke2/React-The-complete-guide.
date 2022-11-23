@@ -125,3 +125,12 @@ Not following the videos just trying to create it on my own.
 
 Create a add user project which will add a user with name and age. use useState hook,
 event handlers, props, state etc.
+
+</hr>
+
+## 9 Diving Deeper Working with fragments, portals and refs
+
+![Media Player 23-11-2022 9 50 54 PM](https://user-images.githubusercontent.com/95171638/203597959-9ee4c3fb-0dc1-4806-9f0a-a60dac02b053.png)
+
+
+- Module Introduction.
