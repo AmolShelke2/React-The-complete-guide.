@@ -136,3 +136,4 @@ event handlers, props, state etc.
 - Jsx Limitations
 - Creating a Wrapper Component
 - React Fragments
+- Intro to react protals
