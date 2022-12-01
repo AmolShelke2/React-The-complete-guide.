@@ -140,3 +140,9 @@ event handlers, props, state etc.
 - working with React portals
 - working with useRef hook
 - controlled component vs uncontrolled component
+
+<hr/>
+
+## 10 - Advanced Handling Side Effects, Using Reducers & Using the Context API
+
+- Module Introduction
