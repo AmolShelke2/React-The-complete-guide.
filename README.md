@@ -137,3 +137,6 @@ event handlers, props, state etc.
 - Creating a Wrapper Component
 - React Fragments
 - Intro to react protals
+- working with React portals
+- working with useRef hook
+- controlled component vs uncontrolled component
