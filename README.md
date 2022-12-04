@@ -144,5 +144,10 @@ event handlers, props, state etc.
 <hr/>
 
 ## 10 - Advanced Handling Side Effects, Using Reducers & Using the Context API
+ 
+ useStae hook
+ ![Media Player 04-12-2022 10 32 24 PM](https://user-images.githubusercontent.com/95171638/205504880-ebf4741f-97b9-4e61-84db-7f5c8a67582b.png)
+
 
 - Module Introduction
+- What are effects and SideEffects in ReactJS.
