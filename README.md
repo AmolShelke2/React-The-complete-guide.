@@ -152,3 +152,4 @@ event handlers, props, state etc.
 - Module Introduction
 - What are effects and SideEffects in ReactJS.
 - Working with useEffect hook
+- useEffect and Dependencies
