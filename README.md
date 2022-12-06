@@ -153,3 +153,5 @@ event handlers, props, state etc.
 - What are effects and SideEffects in ReactJS.
 - Working with useEffect hook
 - useEffect and Dependencies
+- what to add and not to add as dependencies
+- useEffect cleanUp function.
