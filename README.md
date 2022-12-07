@@ -155,3 +155,4 @@ event handlers, props, state etc.
 - useEffect and Dependencies
 - what to add and not to add as dependencies
 - useEffect cleanUp function.
+- useEffect summary
