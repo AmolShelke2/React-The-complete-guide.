@@ -131,7 +131,9 @@ event handlers, props, state etc.
 ## Practice Todo project. with CRD 
 
 Created a todo app with all the concepts which I learnt up until this point in this course.
+Live link: [Todo App](https://todo-list-v2-nine.vercel.app/)
 
+</hr>
 
 ## 9 Diving Deeper Working with fragments, portals and refs
 
