@@ -18,6 +18,8 @@ In this repository I will be writing my learnings through this course Everyday.s
 - The Two Ways(paths) of taking ths course.
 - Taking most out of the course content.
 
+<hr >
+
 ## 2 JavaScript Refresher.
 
 - Module Introduction
@@ -126,14 +128,14 @@ Not following the videos just trying to create it on my own.
 Create a add user project which will add a user with name and age. use useState hook,
 event handlers, props, state etc.
 
-</hr>
+<hr>
 
 ## Practice Todo project. with CRD 
 
 Created a todo app with all the concepts which I learnt up until this point in this course.
 Live link: [Todo App](https://todo-list-v2-nine.vercel.app/)
 
-</hr>
+<hr>
 
 ## 9 Diving Deeper Working with fragments, portals and refs
 
