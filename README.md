@@ -128,6 +128,11 @@ event handlers, props, state etc.
 
 </hr>
 
+## Practice Todo project. with CRD 
+
+Created a todo app with all the concepts which I learnt up until this point in this course.
+
+
 ## 9 Diving Deeper Working with fragments, portals and refs
 
 ![Media Player 23-11-2022 9 50 54 PM](https://user-images.githubusercontent.com/95171638/203597959-9ee4c3fb-0dc1-4806-9f0a-a60dac02b053.png)
